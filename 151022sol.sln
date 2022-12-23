@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMethods2", "TaskMethods
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMethods3", "TaskMethods3\TaskMethods3.csproj", "{0F1F72A3-2453-4FF0-9EA8-6ACD42D340A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAlgorithm", "TaskAlgorithm\TaskAlgorithm.csproj", "{007316EC-BD1E-4CA3-8945-E35751C94724}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{0F1F72A3-2453-4FF0-9EA8-6ACD42D340A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F1F72A3-2453-4FF0-9EA8-6ACD42D340A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F1F72A3-2453-4FF0-9EA8-6ACD42D340A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007316EC-BD1E-4CA3-8945-E35751C94724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007316EC-BD1E-4CA3-8945-E35751C94724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007316EC-BD1E-4CA3-8945-E35751C94724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007316EC-BD1E-4CA3-8945-E35751C94724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
